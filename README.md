@@ -1,2 +1,5 @@
-# IS620FinalProject
-Final Project IS620 Book Review Classifier 
+IS620 Final Project
+
+Aspect Sentence Classificatio3 methods
+
+
